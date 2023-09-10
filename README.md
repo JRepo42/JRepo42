@@ -3,6 +3,7 @@
 - 📖 I’m currently learning to improve my programming skills
 - ⚡ I also like gaming! (OW2, Minecraft ETC)
 - ✨ Currently helping work on a few modding projects
+  
 ![](one-punch-man-ok.gif)
 
 <!---
