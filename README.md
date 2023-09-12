@@ -3,6 +3,7 @@
 - 📖 I’m currently learning to improve my programming skills
 - ⚡ I also like gaming! (OW2, Minecraft ETC)
 - ✨ Currently helping work on a few modding projects
+- 🤓 Mainly code in Java but also do Python and a few others on the side
   
 ![](one-punch-man-ok.gif)
 
